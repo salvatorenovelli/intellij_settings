@@ -1,0 +1,13 @@
+<template name="deflog" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);&#10;" description="Create a logger" toReformat="false" toShortenFQNames="true">
+  <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <context>
+    <option name="JAVA_STATEMENT" value="true" />
+    <option name="JAVA_DECLARATION" value="true" />
+  </context>
+</template>
+
+<template name="unsupp" value="throw new UnsupportedOperationException(&quot;Not implemented yet!&quot;);" description="Create an unsupported exception" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="JAVA_STATEMENT" value="true" />
+  </context>
+</template>
