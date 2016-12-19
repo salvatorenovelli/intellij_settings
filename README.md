@@ -2,7 +2,7 @@
 
 With this repo, I'd like to store and share my Intellij Setting
 
-##live_templates.txt
+##[live_templates.txt][2]
 
 A collection of [Live Templates][1]
 
@@ -24,3 +24,4 @@ In Intellij:
 
 
 [1]:https://www.jetbrains.com/help/idea/2016.3/live-templates.html
+[2]:live_templates.txt
