@@ -4,7 +4,7 @@ With this repo, I'd like to store and share my Intellij Setting
 
 ##[live_templates.txt][2]
 
-A collection of [Live Templates][1]
+A collection of [Intellij Live Templates][1]
 
 ###Available templates
 
@@ -13,6 +13,9 @@ A collection of [Live Templates][1]
     private static final Logger logger = LoggerFactory.getLogger(MyWonderfulClass.class);
 ```
 - **unsupp**: Throws an UnsupportedOperationException. 
+```java
+    throw new UnsupportedOperationException("Not implemented yet!");
+```
 
 ###How to install 
 
