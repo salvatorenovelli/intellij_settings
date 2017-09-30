@@ -1,12 +1,12 @@
-#Intellij Settings
+# Intellij Settings
 
 With this repo, I'd like to store and share my Intellij Setting
 
-##[live_templates.txt][2]
+## [live_templates.txt][2]
 
 A collection of [Intellij Live Templates][1]
 
-###Available templates
+### Available templates
 
 - **deflog**: creates a slf4j logger for the class where is created. Example:  
 ```java
@@ -17,7 +17,7 @@ A collection of [Intellij Live Templates][1]
     throw new UnsupportedOperationException("Not implemented yet!");
 ```
 
-###How to install 
+### How to install 
 
 Copy the following XML in your clipboard (CTRL + C)
 In Intellij:
