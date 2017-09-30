@@ -25,8 +25,8 @@ In Intellij:
 
 - PRESS: `CTRL + SHIFT + A`
 - TYPE: `live templates`
-- SELECT the entry that will open the "Live templates" setting pane 
-   Paste the previously copied XML in any of the live template group, or create a dedicated one.
+- CLICK: `+` and then `Template Group...`
+- PRESS CTRL + V
 
 
 
