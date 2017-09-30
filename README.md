@@ -19,7 +19,8 @@ A collection of [Intellij Live Templates][1]
 
 ### How to install 
 
-Copy the following XML in your clipboard (CTRL + C)
+Copy the XML inside [live_templates.txt][2] in your clipboard (CTRL + C)
+
 In Intellij:
 
 - PRESS: `CTRL + SHIFT + A`
