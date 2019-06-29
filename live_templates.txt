@@ -12,7 +12,7 @@
   </context>
 </template>
 
-<template name="invoc" value="System.out.println(mockingDetails($VAR$).printInvocations());" description="print mock invocations" toReformat="false" toShortenFQNames="true">
+<template name="invoc" value="System.out.println(org.mockito.Mockito.mockingDetails($VAR$).printInvocations());" description="print mock invocations" toReformat="false" toShortenFQNames="true">
   <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
   <context>
     <option name="JAVA_STATEMENT" value="true" />
