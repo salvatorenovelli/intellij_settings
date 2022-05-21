@@ -26,7 +26,8 @@ In Intellij:
 - PRESS: `CTRL + SHIFT + A`
 - TYPE: `live templates`
 - CLICK: `+` and then `Template Group...`
-- PRESS CTRL + V
+- type group name of your choiche then `return`
+- with the group selected PRESS `CTRL + V`
 
 
 
